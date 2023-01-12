@@ -6,7 +6,7 @@ edges = []
 with open('edges.txt', 'r') as f:
     for line in f:
         x, y = line.strip().split()
-        edges.append((int(x), int(y)))
+        edges.append((str(x), str(y)))
 
 # criar o grafo
 G = nx.Graph()

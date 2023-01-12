@@ -4,3 +4,7 @@
 
 * Davi Tobias Lacerda
 * Victor Hugo Nunes Alves
+
+```
+pip install networkx matplotlib
+```
