@@ -1,0 +1,11 @@
+load(graphs)$
+
+g: create_graph(5, [[0,4], [1,4], [2,4], [3,4], [0,1], [1,2], [2,3], [3,0]]);
+
+chromatic_index(g);
+
+edgeColoring: edge_coloring(g);
+
+draw_graph(g, edge_coloring=edgeColoring, vertex_color=black);
+
+quit();
