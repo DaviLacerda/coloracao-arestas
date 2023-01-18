@@ -35,4 +35,4 @@
 ### 4º Passo) Resultados
 
 * Ao executar o código, será mostrado o índice cromático, além de uma imagem do grafo montado, já com as arestas coloridas (respeitando as regras de coloração própria)
-![Execução do código](https://github.com/DaviLacerda/coloracao-arestas/blob/main/images/graph_example.jpg)
+![Execução do código](https://github.com/DaviLacerda/coloracao-arestas/blob/main/images/graph_example.png)
